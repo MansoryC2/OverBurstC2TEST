@@ -1,0 +1,13 @@
+{
+    "users": [
+        {
+            "username": "root",
+            "password": "root",
+            "role": "admin",
+            "plan": "vip",
+            "attacks_made": 1,
+            "joined_at": "19/05/2025",
+            "expires_at": "29/05/2036"
+        }
+    ]
+}
